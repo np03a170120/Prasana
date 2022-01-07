@@ -1,0 +1,67 @@
+@import "./base/globals";
+@import "./base/variables";
+@import "./base/mixins";
+// header
+.header-mid {
+    .navbar-collapse {
+        justify-content: center;
+        background: none;
+    }
+}
+
+.disp-flex {
+    display: flex;
+    align-items: center;
+}
+
+.j-c-c {
+    justify-content: center;
+}
+
+.j-c-r {
+    justify-content: right;
+}
+
+.j-c-l {
+    justify-content: left;
+}
+
+// header-right
+.hr-img {
+    img {
+        object-fit: cover;
+        width: 420px;
+        height: 580px;
+        border-radius: 755px 18px 392px 439px;
+    }
+}
+
+.no-pad {
+    padding: 0;
+}
+
+.header-main {
+    position: relative;
+    a.nav-link {
+        color: #222465;
+        font-weight: 600;
+    }
+}
+
+.header-mid {
+    width: 60%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+}
+
+.header-right {
+    position: absolute;
+    right: 0;
+}
