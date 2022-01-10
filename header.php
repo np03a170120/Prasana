@@ -48,11 +48,11 @@
                                         Destination
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                        <a class="dropdown-item" href="gallery.php">Australia</a>
-                                        <a class="dropdown-item" href="blog.php">Canada</a>
-                                        <a class="dropdown-item" href="team.php">New Zealand</a>
-                                        <a class="dropdown-item" href="team.php">UK</a>
-                                        <a class="dropdown-item" href="team.php">USA</a>
+                                        <a class="dropdown-item" href="destination.php">Australia</a>
+                                        <a class="dropdown-item" href="destination.php">Canada</a>
+                                        <a class="dropdown-item" href="destination.php">New Zealand</a>
+                                        <a class="dropdown-item" href="destination.php">UK</a>
+                                        <a class="dropdown-item" href="destination.php">USA</a>
                                     </div>
                                 </li>
 
