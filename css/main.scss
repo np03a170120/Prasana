@@ -706,3 +706,20 @@
         color: white;
     }
 }
+
+.dropdown-menu.show {
+    background: #222465;
+    color: white;
+}
+
+a.dropdown-item {
+    color: white;
+}
+
+li.nav-item {
+    text-transform: capitalize;
+}
+
+.dropdown-item {
+    font-size: 13px;
+}

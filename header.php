@@ -23,7 +23,9 @@
         <div class="container">
             <div class="header-wrapper">
                 <div class="header-logo">
-                    <img src="./images/logo.png" alt="">
+                    <a href="index.php">
+                        <img src="./images/logo.png" alt="">
+                    </a>
                 </div>
                 <div class="header-mid">
                     <nav class="navbar navbar-expand-lg">
@@ -35,26 +37,34 @@
                         <div class="collapse navbar-collapse" id="navbarNavDropdown">
                             <ul class="navbar-nav">
                                 <li class="nav-item active">
-                                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">services</a>
+                                    <a class="nav-link" href="services.php">services</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#">Abroad study</a>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
+                                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Destination
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                        <a class="dropdown-item" href="gallery.php">Australia</a>
+                                        <a class="dropdown-item" href="blog.php">Canada</a>
+                                        <a class="dropdown-item" href="team.php">New Zealand</a>
+                                        <a class="dropdown-item" href="team.php">UK</a>
+                                        <a class="dropdown-item" href="team.php">USA</a>
+                                    </div>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#">Team</a>
-                                </li>
+
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
                                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         About us
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                        <a class="dropdown-item" href="#">Gallery</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
+                                        <a class="dropdown-item" href="gallery.php">Our Gallery</a>
+                                        <a class="dropdown-item" href="blog.php">Our blog</a>
+                                        <a class="dropdown-item" href="team.php">Our team</a>
                                     </div>
                                 </li>
                             </ul>
