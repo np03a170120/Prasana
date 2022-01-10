@@ -14,7 +14,7 @@
 <section class="destination">
     <div class="container">
         <div class="sec-title inner-sec-title">
-            <h2>Our services</h2>
+            <h2>Australia</h2>
         </div>
         <div class="inner-page-text">
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis, incidunt? Consequuntur dolore quia
