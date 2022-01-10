@@ -35,7 +35,7 @@ body {
         }
     }
     p {
-        font-weight: 500;
+        font-weight: 400;
         font-size: 14px;
         line-height: 24px;
     }
@@ -68,7 +68,7 @@ body {
 }
 
 section.main-about.sec-padding {
-    padding: 0 30px;
+    padding: 0 60px;
 }
 
 .learn-more {
@@ -141,4 +141,44 @@ section.main-about.sec-padding {
             color: white;
         }
     }
+}
+
+.inner-breadcrumb {
+    .breadcrumb {
+        margin: 40px 60px;
+        width: 20%;
+        border-radius: 32px;
+        justify-content: center;
+        background: #da4a4a;
+        padding: 6px 8px;
+        li {
+            a {
+                color: white;
+                font-size: 12px;
+            }
+        }
+    }
+    .breadcrumb-item.active {
+        color: #ffffff;
+    }
+    .breadcrumb-item+.breadcrumb-item::before {
+        display: inline-block;
+        padding-right: 0.5rem;
+        color: #ffffff;
+        content: "/";
+    }
+    .breadcrumb-item {
+        font-size: 12px;
+        text-transform: capitalize;
+    }
+}
+
+.inner-sec-title {
+    text-align: left;
+    margin: 18px 0;
+    padding: 0 60px;
+}
+
+.inner-page-text {
+    padding: 0 60px;
 }

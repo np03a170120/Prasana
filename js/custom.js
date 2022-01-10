@@ -75,3 +75,9 @@ $(".destination-slider").slick({
         // instead of a settings object
     ],
 });
+
+lightbox.option({
+    resizeDuration: 200,
+    wrapAround: true,
+    alwaysShowNavOnTouchDevices: true,
+});

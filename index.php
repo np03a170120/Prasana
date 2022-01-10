@@ -254,7 +254,7 @@
                         <div class="ss-icon">
                             <img src="./images/country-icon.png" alt="">
                         </div>
-                        <div class="ss-text">
+                        <div class="sss-text">
                             <h6>3 countries</h6>
                         </div>
                     </div>
@@ -266,7 +266,7 @@
                         <div class="ss-icon">
                             <img src="./images/uni-logo.png" alt="">
                         </div>
-                        <div class="ss-text">
+                        <div class="sss-text">
                             <h6>32 universities</h6>
                         </div>
                     </div>
@@ -278,7 +278,7 @@
                         <div class="ss-icon">
                             <img src="./images/graduate.png" alt="">
                         </div>
-                        <div class="ss-text">
+                        <div class="sss-text">
                             <h6>60+ Graduates</h6>
                         </div>
                     </div>
@@ -290,7 +290,7 @@
                         <div class="ss-icon">
                             <img src="./images/documented.png" alt="">
                         </div>
-                        <div class="ss-text">
+                        <div class="sss-text">
                             <h6>100+ Documented</h6>
                         </div>
                     </div>
