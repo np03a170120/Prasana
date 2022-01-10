@@ -65,7 +65,11 @@
                                         <a class="dropdown-item" href="gallery.php">Our Gallery</a>
                                         <a class="dropdown-item" href="blog.php">Our blog</a>
                                         <a class="dropdown-item" href="team.php">Our team</a>
+
                                     </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="contact.php">contact us</a>
                                 </li>
                             </ul>
                         </div>
