@@ -89,6 +89,9 @@
 
     </div>
 </footer>
+<div class="footer-bottom">
+    <span>Copyright © 2020 Prasana Int Education . All rights reserved. Powered by<a href="#">Ultrabyte</a></span>
+</div>
 <script src="./js/jquery-3.5.1.js"></script>
 <script src="./js/bootstrap.min.js"></script>
 <script src="./js/slick.min.js"></script>

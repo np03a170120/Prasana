@@ -972,4 +972,20 @@ section.main-about.sec-padding {
   border: none;
   color: white;
 }
+
+.footer-bottom {
+  padding: 4px;
+  text-align: center;
+  background: #222465;
+}
+
+.footer-bottom span {
+  font-size: 11px;
+  color: white;
+}
+
+.footer-bottom a {
+  margin: 0 6px;
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */

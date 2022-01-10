@@ -692,3 +692,17 @@
         color: white;
     }
 }
+
+.footer-bottom {
+    padding: 4px;
+    text-align: center;
+    background: $primary-color;
+    span {
+        font-size: 11px;
+        color: white;
+    }
+    a {
+        margin: 0 6px;
+        color: white;
+    }
+}
