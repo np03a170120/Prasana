@@ -1,4 +1,6 @@
 <?php include 'header.php'?>
+
+<!-- Main about -->
 <section class="main-about sec-padding">
     <div class="container">
         <div class="sec-title-about">
@@ -18,6 +20,7 @@
     </div>
 </section>
 
+<!-- Main about banner image -->
 <section class="main-about-image">
     <div class="container no-pad">
         <div class="main-about-image-slider">
@@ -40,6 +43,7 @@
     </div>
 </section>
 
+<!-- Main services -->
 <section class="main-services sec-padding">
     <div class="container">
         <div class="sec-title">
@@ -126,6 +130,7 @@
     </div>
 </section>
 
+<!-- Main booking -->
 <section class="main-booking sec-padding">
     <div class="container">
         <div class="row">
@@ -158,6 +163,81 @@
     </div>
 </section>
 
+<!-- Main countries -->
+<section class="main-country main-blog sec-padding">
+    <div class="container">
+        <div class="sec-title">
+            <h2>Destination</h2>
+            <div class="view-all-btn">
+                <a href="#"> view all</a>
+            </div>
+        </div>
+        <div class="destination-slider">
+            <div class="mb-single">
+                <a href="#">
+                    <div class="mb-img">
+                        <img src="./images/australia.png" alt="">
+                    </div>
+                    <div class="mb-content">
+                        <div class="mb-title">
+                            <h6>Austrlia</h6>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="mb-single">
+                <a href="#">
+                    <div class="mb-img">
+                        <img src="./images/canada.png" alt="">
+                    </div>
+                    <div class="mb-content">
+                        <div class="mb-title">
+                            <h6>Canada</h6>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="mb-single">
+                <a href="#">
+                    <div class="mb-img">
+                        <img src="./images/new_Zealand.jpg" alt="">
+                    </div>
+                    <div class="mb-content">
+                        <div class="mb-title">
+                            <h6>New Zealand</h6>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="mb-single">
+                <a href="#">
+                    <div class="mb-img">
+                        <img src="./images/uk.png" alt="">
+                    </div>
+                    <div class="mb-content">
+                        <div class="mb-title">
+                            <h6>United kingdom</h6>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="mb-single">
+                <a href="#">
+                    <div class="mb-img">
+                        <img src="./images/usa.png" alt="">
+                    </div>
+                    <div class="mb-content">
+                        <div class="mb-title">
+                            <h6>USA</h6>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- main stat -->
 <section class="main-stat sec-padding">
     <div class="container">
         <div class="sec-title">
@@ -245,6 +325,7 @@
     </div>
 </section>
 
+<!-- Main testimonial -->
 <section class="main-testimonial sec-padding removes-white-padding">
     <div class="container">
         <div class="sec-title">
@@ -341,6 +422,7 @@
     </div>
 </section>
 
+<!-- Main blog -->
 <section class="main-blog sec-padding">
     <div class="container">
         <div class="sec-title">
@@ -433,6 +515,7 @@
     </div>
 </section>
 
+<!-- Main associates -->
 <section class="main-associates sec-padding">
     <div class="container">
         <div class="row">

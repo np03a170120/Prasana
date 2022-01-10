@@ -112,3 +112,33 @@ section.main-about.sec-padding {
 .removes-white-padding {
     padding: 0px;
 }
+
+.main-country {
+    .mb-single {
+        margin: 0 10px;
+        text-align: center;
+    }
+    .slick-initialized .slick-slide {
+        display: block;
+        margin: 6px 12px;
+    }
+}
+
+.social-links {
+    display: flex;
+    align-items: center;
+    li {
+        height: 30px;
+        width: 30px;
+        background: #da4a4a;
+        text-align: center;
+        border-radius: 50%;
+        line-height: 30px;
+        margin-right: 8px;
+        font-size: 14px;
+        margin-right: 8px;
+        a {
+            color: white;
+        }
+    }
+}
