@@ -77,8 +77,15 @@ section.main-about.sec-padding {
     padding: 10px 20px;
     display: inline-block;
     background-image: linear-gradient(to right, #3d40ac, #ff5359 83%);
+    transition: 0.3s linear;
     a {
+        transition: 0.2s linear;
         color: white;
+    }
+    &:hover {
+        // background: #464ac2;
+        box-shadow: 11px 9px 20px 0px #7474748c;
+        background-image: linear-gradient(#33368a, #171946);
     }
 }
 
